@@ -33,3 +33,19 @@ article {
     border: 1px solid #ddd;
     margin-bottom: 20px;
 }
+
+body {
+    font-family: 'Gideon Roman', serif; /* Aplicar Gideon Roman como fuente */
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-family: 'Gideon Roman', serif; /* Cambiar solo el encabezado a Gideon Roman */
+}
+
+h1, h2, h3 {
+    font-family: 'Gideon Roman', serif; /* Cambiar títulos a Gideon Roman */
+}
